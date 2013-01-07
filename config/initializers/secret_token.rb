@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Rasaa::Application.config.secret_token = '8d9b8b823f3a46878d545a34802afd28fdd9b3eb81d7644c9171abbb0be9c781b8d32f7ab3337628ba92a1f78558a616d41321a1656129020e479cb8ae182e4e'
+Rasaa::Application.config.secret_token = 'ec9647682aaadb4e816b812c4227c8beb18a313901e494cf98c482ecc4d432a4d439b440af35df1476a720aa1d6f83a8e227092145da3d62c2ed0d6f9493c83e'
